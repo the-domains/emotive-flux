@@ -6,9 +6,10 @@ color:
   saturation: 0.650213701184839
   rhythmicContrast: 0.3827385399490595
   brandColors:
-    - '#A7304F'
-    - '#F46D8D'
-    - '#F39EB5'
-    - '#081028'
-    - '#F0CEB7'
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
 name: Emotive Flux
+description: Design for Affinity
