@@ -1,0 +1,14 @@
+layout_spectrum: 0.3761518341489136
+typography_spectrum: 0.8855401559267193
+color:
+  brandStrength: 0.18348848214372993
+  lightness: 0.513129057828337
+  saturation: 0.650213701184839
+  rhythmicContrast: 0.3827385399490595
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Emotive Flux
